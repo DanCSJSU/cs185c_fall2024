@@ -1,7 +1,7 @@
 --------------------------------------------------------------
 TO-DO:
 --------------------------------------------------------------
-
+* Redownload ECCO data on pc
 * Finish transferring existing notebooks to pc, rerun notebooks on windows
-* Complete Boundary Conditions notebook
+* Complete Boundary Conditions notebook (download 2015 and 2017 ECCO data?)
 * Check class github and start working on namelist data files
